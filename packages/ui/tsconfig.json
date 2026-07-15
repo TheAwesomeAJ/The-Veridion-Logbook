@@ -1,0 +1,4 @@
+{
+    "extends": "@veridion/tsconfig/base.json",
+    "include": ["src"]
+  }

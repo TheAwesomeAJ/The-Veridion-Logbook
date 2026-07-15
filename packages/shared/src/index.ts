@@ -1,0 +1,1 @@
+export const PLACEHOLDER = "shared business logic lives here";
